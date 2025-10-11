@@ -10,4 +10,5 @@
 <img width="911" height="727" alt="Screenshot 2025-10-10 at 8 55 52 PM" src="https://github.com/user-attachments/assets/1e9fcba2-1bc9-44a0-b540-3b4e07df538c" />
 
 
-![Uploading Screenshot 2025-10-10 at 8.57.18 PM.png…]()
+
+<img width="682" height="757" alt="Screenshot 2025-10-10 at 8 57 58 PM" src="https://github.com/user-attachments/assets/00e95445-62b8-4aab-95fa-79e0d1178913" />
